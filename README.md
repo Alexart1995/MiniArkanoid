@@ -17,3 +17,4 @@ Implement a project in the Arkanoid genre - the player controls a platform that 
 - [x] Scene Manager
 - [x] Sound of hit with enemies
 - [x] Score, Highscore and Life counter
+- [x] Editing Fonts, Images, Canvases
